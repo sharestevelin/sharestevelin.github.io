@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>content-unknown-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="43" y="30" width="74" height="100" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.858823529   0 0 0 0 0.870588235   0 0 0 0 0.88627451  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons---Giant" transform="translate(-3040.000000, -160.000000)">
+            <g id="Icons" transform="translate(160.000000, 160.000000)">
+                <g id="icons/large/unknown" transform="translate(2880.000000, 0.000000)">
+                    <g id="icons/large">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#F7F9FA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-2" transform="translate(59.000000, 62.000000)">
+                            <rect id="Rectangle-12" fill="#D8D8D8" x="8.64285714" y="32.1428571" width="25.7142857" height="3.21428571" rx="1.60714286"></rect>
+                            <g id="Group-7">
+                                <path d="M11.8571429,19.2857143 L31.1428571,19.2857143 C31.1428571,19.2857143 31.1428571,13.9222209 31.1428571,9.64285714 C31.1428571,4.3172542 26.8256029,0 21.5,0 C16.1743971,0 11.8571429,4.3172542 11.8571429,9.64285714 L11.8571429,19.2857143 Z" id="Oval-3" stroke="#637282" stroke-width="3"></path>
+                                <path d="M7.23037592,11.0553384 C8.01046776,10.2752465 9.54577234,9.64285714 10.6491768,9.64285714 L15.3263438,9.64285714 C18.7267383,9.64285714 24.2450644,9.64285714 27.6374313,9.64285714 L32.3597305,9.64285714 C33.4628709,9.64285714 34.9898376,10.2755519 35.7696241,11.0553384 L42.5875188,17.8732331 C43.3676106,18.6533249 43.1179733,19.4117181 42.0229948,19.5681436 L27.6036588,21.6280487 C24.2327011,22.1096141 18.7635527,22.109079 15.3963412,21.6280487 L0.977005177,19.5681436 C-0.114864632,19.4121622 -0.367305211,18.6530195 0.412481221,17.8732331 L7.23037592,11.0553384 Z" id="Combined-Shape" fill="#637282"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="SLICES" transform="translate(160.000000, 160.000000)"></g>
+        </g>
+    </g>
+</svg>
